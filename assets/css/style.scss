@@ -1,10 +1,10 @@
-$header-heading-color: #fff !default;
-$header-bg-color: #0f7dec !default;
-$header-bg-color-secondary: #000133 !default;
+$header-heading-color: #fff;
+$header-bg-color: #0f7dec;
+$header-bg-color-secondary: #000133;
 
-$section-headings-color: #0F7DEB !default;
-$body-text-color: #313257 !default;
-$body-link-color: #0F7DEB !default;
-$blockquote-text-color: rgba(0, 1, 51, 0.5) !default;
+$section-headings-color: #0F7DEB;
+$body-text-color: #313257;
+$body-link-color: #0F7DEB;
+$blockquote-text-color: rgba(0, 1, 51, 0.5);
 
 @import "{{ site.theme }}";
